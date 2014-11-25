@@ -1,0 +1,49 @@
+{
+  "name": "nearest-coffee",
+  "version": "1.0.0",
+  "description": "gets the nearest cafe to the given lat/long",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "as-number": "^1.0.0",
+    "no-op": "^1.0.3",
+    "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "beefy --open --index=test/test.html test/test.js"
+  },
+  "keywords": [
+    "nearest",
+    "coffee",
+    "shop",
+    "cafe",
+    "google",
+    "street",
+    "lat",
+    "long",
+    "latitude",
+    "longitude",
+    "phi",
+    "theta",
+    "locate",
+    "place",
+    "places",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/nearest-coffee.git"
+  },
+  "homepage": "https://github.com/mattdesl/nearest-coffee",
+  "bugs": {
+    "url": "https://github.com/mattdesl/nearest-coffee/issues"
+  }
+}
